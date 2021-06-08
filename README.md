@@ -24,7 +24,7 @@ GLO Academy "JavaScript" course learning project.
 
 ## About App
 
-Online version of the [PersonalBudget] application (https://kostyanb.github.io/budgetCalc).
+Online version of the [PersonalBudget] application (https://kostyanb.github.io/personalBudget/).
 
 The user enters data on income, expenses, bank deposit, the desired amount of accumulation.
 The application calculates the budget and the deadline for achieving the savings goal.
