@@ -4,7 +4,7 @@
 
 ## О приложениии
 
-Онлайн-версия приложения [PersonalBudget](https://kostyanb.github.io/budgetCalc).
+Онлайн-версия приложения [PersonalBudget](https://kostyanb.github.io/personalBudget).
 
 Пользователем вводит данные о доходах, расходах, банковском депозите, желаемую сумму накопления.
 Приложение производит расчет бюджета и срока достижения цели накопления.
@@ -24,7 +24,7 @@ GLO Academy "JavaScript" course learning project.
 
 ## About App
 
-Online version of the [PersonalBudget] application (https://kostyanb.github.io/personalBudget/).
+Online version of the [PersonalBudget](https://kostyanb.github.io/personalBudget/).
 
 The user enters data on income, expenses, bank deposit, the desired amount of accumulation.
 The application calculates the budget and the deadline for achieving the savings goal.
