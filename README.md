@@ -1,7 +1,5 @@
 # "PersonalBudget" калькулятор личного бюджета
 
-Учебный проект курса "JavaScript" GLO Academy.
-
 ## О приложениии
 
 Онлайн-версия приложения [PersonalBudget](https://kostyanb.github.io/personalBudget).
@@ -19,8 +17,6 @@
 Eng
 
 ## "PersonalBudget" personal budget calculator
-
-GLO Academy "JavaScript" course learning project.
 
 ## About App
 
